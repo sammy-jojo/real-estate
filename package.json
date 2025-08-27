@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.23.12",
+    "react-accessible-accordion": "^5.0.1",
+    "react-countup": "^6.5.3",
+    "react-icons": "^5.5.0",
+    "react-outside-click-handler": "^1.3.0",
+    "swiper": "^11.2.10"
+  }
+}
